@@ -13,7 +13,7 @@ Gestion des jeux, emprunts, locations, rÃ©servations et Ã©vÃ©nements.
 ## Installation
 
 1. **Cloner le projet** dans le dossier de votre serveur web (htdocs, www, etc.)
-2. **Importer la base de donnÃ©es** :
+2. **Importer la base de données** :
    ```
    mysql -u root -p < sql/create_database.sql
    ```
@@ -23,9 +23,9 @@ Gestion des jeux, emprunts, locations, rÃ©servations et Ã©vÃ©nements.
 
 ## Comptes de test
 
-| RÃ´le | Email | Mot de passe |
+| Role | Email | Mot de passe |
 |------|-------|-------------|
-| PrÃ©sident | president@ludotheque.fr | password123 |
+| Président | president@ludotheque.fr | password123 |
 | Admin | admin1@ludotheque.fr | password123 |
 | Membre | membre1@ludotheque.fr | password123 |
 | Non-membre | user1@email.com | password123 |
@@ -45,6 +45,7 @@ ludotheque/
 
 
 Sersar Yassine, Achache Camélia, El Bachir Malek
+
 
 
 
