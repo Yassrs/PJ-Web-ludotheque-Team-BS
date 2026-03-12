@@ -1,4 +1,4 @@
-# Ludothèque â€” Projet Web APP 2026
+# Ludothèque Projet Web APP 2026
 
 ## Description
 Application web de gestion d'une ludothÃ¨que associative Ã©tudiante.
@@ -45,5 +45,6 @@ ludotheque/
 
 
 Sersar Yassine, Achache Camélia, El Bachir Malek
+
 
 
