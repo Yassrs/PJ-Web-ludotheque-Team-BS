@@ -1,8 +1,8 @@
 # Ludothèque Projet Web APP 2026
 
 ## Description
-Application web de gestion d'une ludothÃ¨que associative Ã©tudiante.
-Gestion des jeux, emprunts, locations, rÃ©servations et Ã©vÃ©nements.
+Application web de gestion d'une ludothéque associative étudiante.
+Gestion des jeux, emprunts, locations, réservations et évènements.
 
 ## Technologies
 - **Frontend** : HTML5, CSS3, Bootstrap 5, JavaScript, jQuery, AJAX
@@ -45,6 +45,7 @@ ludotheque/
 
 
 Sersar Yassine, Achache Camélia, El Bachir Malek
+
 
 
 
