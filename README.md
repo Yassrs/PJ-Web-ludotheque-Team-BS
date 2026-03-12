@@ -25,10 +25,10 @@ Gestion des jeux, emprunts, locations, réservations et évènements.
 
 | Role | Email | Mot de passe |
 |------|-------|-------------|
-| Président | president@ludotheque.fr | password123 |
-| Admin | admin1@ludotheque.fr | password123 |
-| Membre | membre1@ludotheque.fr | password123 |
-| Non-membre | user1@email.com | password123 |
+| Président | president@ludotheque.fr | password |
+| Admin | admin1@ludotheque.fr | password |
+| Membre | membre1@ludotheque.fr | password |
+| Non-membre | user1@email.com | password |
 
 ## Structure du projet
 ```
@@ -45,6 +45,7 @@ ludotheque/
 
 
 Sersar Yassine, Achache Camélia, El Bachir Malek
+
 
 
 
