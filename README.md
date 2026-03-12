@@ -7,7 +7,7 @@ Gestion des jeux, emprunts, locations, réservations et évènements.
 ## Technologies
 - **Frontend** : HTML5, CSS3, Bootstrap 5, JavaScript, jQuery, AJAX
 - **Backend** : PHP 8 (MVC natif)
-- **Base de donnÃ©es** : MySQL 8
+- **Base de données** : MySQL 8
 - **Versioning** : Git
 
 ## Installation
@@ -45,6 +45,7 @@ ludotheque/
 
 
 Sersar Yassine, Achache Camélia, El Bachir Malek
+
 
 
 
